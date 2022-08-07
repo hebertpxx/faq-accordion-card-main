@@ -173,7 +173,7 @@ footer {
 }
 
 /* Mobile View */
-@media (max-width: 700px) {
+@media (max-width: 700px){
 
     body {
         font-size: 13px;
@@ -223,6 +223,12 @@ footer {
         margin-bottom: 2%;
     }
 
+}
+
+@media (min-width: 720px) and (max-width: 1000px) {
+    #woman-illustration {
+        margin-left: 0;
+    }
 }
 
 @media only screen and (max-width: 1000px) {
