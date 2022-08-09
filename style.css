@@ -85,7 +85,7 @@ main {
     padding: 10px;
 }
 
-h3 {
+h1 {
     width: 70%;
     text-align: left;
     font-size: 2rem;
@@ -206,10 +206,6 @@ footer {
         margin-top: -83%;
     }
 
-    /* #caixa {
-        display: none;
-    } */
-
     #faq {
         width: 100%;
     }
@@ -243,4 +239,5 @@ footer {
     }
 }
 
+/* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
